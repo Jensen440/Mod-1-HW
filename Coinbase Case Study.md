@@ -29,9 +29,9 @@ My personal recomdations are as follows.  Continue to expand within other closel
 
 ## Citations
 
-https://en.wikipedia.org/wiki/Coinbase
-https://www.coinbase.com/
-https://history-computer.com/coinbase-history/
-https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies
-https://www.simplilearn.com/tutorials/blockchain-tutorial
-https://www.google.com/finance/
+<br>https://en.wikipedia.org/wiki/Coinbase
+<br>https://www.coinbase.com/
+<br>https://history-computer.com/coinbase-history/
+<br>https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies
+<br>https://www.simplilearn.com/tutorials/blockchain-tutorial
+<br>https://www.google.com/finance/
